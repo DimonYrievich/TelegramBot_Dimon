@@ -6,7 +6,7 @@ import json
 # base - имя валюты, в которую переводим
 # amount - количество переводимой валюты
 
-TOKEN = "5758896781:AAGd_qsMHvGUiUI_XYwKb3KpiW8D-cyG04I"
+TOKEN = "..................."
 bot = telebot.TeleBot(TOKEN)
 
 keys = {"евро": "EUR",
